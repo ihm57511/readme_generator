@@ -25,7 +25,7 @@ function renderTableOfCont() {
 
 function renderQuestions(email, gitHub) {
   return `I can be reached at ${email} for further information.  
-  Please feel free to also check me out at https://github.com/${gitHub}`
+  Please feel free to also check out my work at https://github.com/${gitHub}`
 }
 function renderData(data) {
   return `${data}`
