@@ -1,7 +1,7 @@
-# rew  
+# Sample README  
   ![readmeLicense](https://img.shields.io/badge/license-MIT-red.svg)  
   ## Description  
-  frewf  
+  Generating a sample README for submission.  
   ## Table of Contents   
   [Installation](##Installation)  
   [Usage](##Usage)  
@@ -11,15 +11,15 @@
   [Questions](##Questions)
     
   ## Installation  
-  vfdedv  
+  No instalations for this sample.  
   ## Usage  
-  vfdev  
+  Still just a sample.  
   ## License   
   Licensed under the **[MIT](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt)** license.    
   ## Contributing  
-  vfev  
+  No guidlines for this sample.  
   ## Tests   
-  vrev  
+  Not at this time.  
   ## Questions  
-  I can be reached at erfve for further information.  
-  Please feel free to also check me out at https://github.com/efrvefdv
+  I can be reached at mcbrayer.ian@gmail.com for further information.  
+  Please feel free to also check out my work at https://github.com/ihm57511
